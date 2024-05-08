@@ -38,7 +38,7 @@
 3. **Executando o Aplicativo:**
    - Para iniciar o servidor, você deve estar no diretório `CODIGO/` e execute o seguinte comando:
    ```bash
-  npm start
+   npm start
    ```
 
    - Acesse o aplicativo no navegador visitando `http://localhost:4200`.
